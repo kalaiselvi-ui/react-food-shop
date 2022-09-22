@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/kalaiselvi-ui/react-food-shop.git/static/css/main.01e6e9e3.css",
+    "main.js": "/kalaiselvi-ui/react-food-shop.git/static/js/main.a84e3ed8.js",
+    "static/media/prod13.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod13.f297c2159a4e7f707954.png",
+    "static/media/granola cereal bowl.png": "/kalaiselvi-ui/react-food-shop.git/static/media/granola cereal bowl.410b4942f6f5b62fca8c.png",
+    "static/media/prod9.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod9.75f861fa806f77c33cba.png",
+    "static/media/bowl1.png": "/kalaiselvi-ui/react-food-shop.git/static/media/bowl1.4c47b165a0bd4e2ef1da.png",
+    "static/media/pizza.png": "/kalaiselvi-ui/react-food-shop.git/static/media/pizza.225acc81ee8facf39293.png",
+    "static/media/fruits.png": "/kalaiselvi-ui/react-food-shop.git/static/media/fruits.856012f0fce9464ba8c2.png",
+    "static/media/bowl2.png": "/kalaiselvi-ui/react-food-shop.git/static/media/bowl2.30baf8f589887797bdd1.png",
+    "static/media/prod16.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod16.8938de7f3572b4434167.png",
+    "static/media/prod11.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod11.de30f1641ee6ab33e84e.png",
+    "static/media/prod15.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod15.8c6bd41da1842a518dc6.png",
+    "static/media/prod14.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod14.69c687c8d89cec9b94eb.png",
+    "static/media/bigBurger.png": "/kalaiselvi-ui/react-food-shop.git/static/media/bigBurger.f73d3b3766f84ff3afa9.png",
+    "static/media/banner.png": "/kalaiselvi-ui/react-food-shop.git/static/media/banner.75527149e866ce4093c4.png",
+    "static/media/prod10.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod10.3cfd1b13c19a83bab321.png",
+    "static/media/bowl4.png": "/kalaiselvi-ui/react-food-shop.git/static/media/bowl4.a22136d5306537c2d39a.png",
+    "static/media/bowl3.png": "/kalaiselvi-ui/react-food-shop.git/static/media/bowl3.a9d596ae05c594629431.png",
+    "static/media/prod12.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod12.6dc8bada67dc11319b7b.png",
+    "static/media/prod8.png": "/kalaiselvi-ui/react-food-shop.git/static/media/prod8.2c263f326c169bf1556f.png",
+    "static/media/logo.png": "/kalaiselvi-ui/react-food-shop.git/static/media/logo.bda6e975d7dcde1923a6.png",
+    "index.html": "/kalaiselvi-ui/react-food-shop.git/index.html",
+    "main.01e6e9e3.css.map": "/kalaiselvi-ui/react-food-shop.git/static/css/main.01e6e9e3.css.map",
+    "main.a84e3ed8.js.map": "/kalaiselvi-ui/react-food-shop.git/static/js/main.a84e3ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e6e9e3.css",
+    "static/js/main.a84e3ed8.js"
+  ]
+}
