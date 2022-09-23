@@ -1,4 +1,5 @@
 import React from "react";
+import ButtonAddRemoveItem from "../ButtonAddRemoveItem";
 
 const MenuItem = ({ item }) => {
   const { id, name, info, price, img } = item;
@@ -13,7 +14,7 @@ const MenuItem = ({ item }) => {
       </div>
       <div className="item-foot_desc">
         <span className="foot_desc-price">${price}</span>
-        <button>Add +</button>
+        <ButtonAddRemoveItem quantity={1} />
       </div>
     </div>
   );
